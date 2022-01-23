@@ -17,7 +17,7 @@ require (
 	github.com/ipfs/go-blockservice v0.1.7
 	github.com/ipfs/go-cid v0.0.7
 	github.com/ipfs/go-cidutil v0.0.2
-	github.com/ipfs/go-datastore v0.4.6
+	github.com/ipfs/go-datastore v0.5.0
 	github.com/ipfs/go-detect-race v0.0.1
 	github.com/ipfs/go-ds-badger v0.2.7
 	github.com/ipfs/go-ds-flatfs v0.4.5
@@ -27,12 +27,12 @@ require (
 	github.com/ipfs/go-filestore v0.0.3
 	github.com/ipfs/go-fs-lock v0.0.7
 	github.com/ipfs/go-graphsync v0.8.0
-	github.com/ipfs/go-ipfs-blockstore v0.1.6
+	github.com/ipfs/go-ipfs-blockstore v0.2.1
 	github.com/ipfs/go-ipfs-chunker v0.0.5
 	github.com/ipfs/go-ipfs-cmds v0.6.0
 	github.com/ipfs/go-ipfs-config v0.16.0
-	github.com/ipfs/go-ipfs-exchange-interface v0.0.1
-	github.com/ipfs/go-ipfs-exchange-offline v0.0.1
+	github.com/ipfs/go-ipfs-exchange-interface v0.1.0
+	github.com/ipfs/go-ipfs-exchange-offline v0.1.1
 	github.com/ipfs/go-ipfs-files v0.0.9
 	github.com/ipfs/go-ipfs-keystore v0.0.2
 	github.com/ipfs/go-ipfs-pinner v0.1.2
