@@ -569,8 +569,8 @@ github.com/ipfs/go-verifcid v0.0.1/go.mod h1:5Hrva5KBeIog4A+UpqlaIU+DEstipcJYQQZ
 github.com/ipfs/interface-go-ipfs-core v0.4.0/go.mod h1:UJBcU6iNennuI05amq3FQ7g0JHUkibHFAfhfUIy927o=
 github.com/ipfs/interface-go-ipfs-core v0.5.1 h1:1KMM7RkjUD8W5fSoRsa9xR6ZMzeL8fLHOUM1UEW9Y4M=
 github.com/ipfs/interface-go-ipfs-core v0.5.1/go.mod h1:lNBJrdXHtWS46evMPBdWtDQMDsrKcGbxCOGoKLkztOE=
-github.com/ipfs/tar-utils v0.0.1 h1:8Na0KBD6GddGyXwU4rXNtVTE24iuZws8mENJQPLG7W4=
-github.com/ipfs/tar-utils v0.0.1/go.mod h1:ACflm9wXvV9w0eMJt6yYXxS2zuIV+yXGNwbuq1bhLeE=
+github.com/ipfs/tar-utils v0.0.2 h1:UNgHB4x/PPzbMkmJi+7EqC9LNMPDztOVSnx1HAqSNg4=
+github.com/ipfs/tar-utils v0.0.2/go.mod h1:4qlnRWgTVljIMhSG2SqRYn66NT+3wrv/kZt9V+eqxDM=
 github.com/ipld/go-car v0.3.1 h1:WT+3cdmXlvmWOlGxk9webhj4auGO5QvgqC2vCCkFRXs=
 github.com/ipld/go-car v0.3.1/go.mod h1:dPkEWeAK8KaVvH5TahaCs6Mncpd4lDMpkbs0/SPzuVs=
 github.com/ipld/go-codec-dagpb v1.2.0/go.mod h1:6nBN7X7h8EOsEejZGqC7tej5drsdBAXbMHyBT+Fne5s=
